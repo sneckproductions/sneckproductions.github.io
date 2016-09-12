@@ -1,0 +1,571 @@
+{
+	"beauty & fashion": [
+		{
+			"description": [
+				"Salong Shape, 2014",
+				"Hair & styling: Jenny Ekelund"
+			],
+			"image": "gallery/beauty/filippa_shape.jpg"
+		},
+		{
+			"description": [
+				"Salong Shape, 2014",
+				"Hair & styling: Jenny Ekelund"
+			],
+			"image": "gallery/beauty/DSC_2164.jpg"
+		},
+		{
+			"description": [
+				"Salong Shape, 2014",
+				"Hair & styling: Jenny Ekelund"
+			],
+			"image": "gallery/beauty/filippa_shape2.jpg"
+		},
+		{
+			"description": [
+				"make up: Jenny Beckman",
+				"styling: Maria Lashari"
+			],
+			"image": "gallery/beauty/DSC_2169.jpg"
+		},
+		{
+			"description": [
+				"make up: Jenny Beckman",
+				"styling: Maria Lashari"
+			],
+			"image": "gallery/beauty/Untitled-2.jpg"
+		},
+		{
+			"description": [
+				"make up: Jenny Beckman",
+				"styling: Maria Lashari"
+			],
+			"image": "gallery/beauty/DSC_1652.jpg"
+		},
+		{
+			"description": [
+				"make up: Jenny Beckman",
+				"styling: Maria Lashari"
+			],
+			"image": "gallery/beauty/DSC_1768.jpg"
+		},
+		{
+			"description": [
+				"hair: emma gayga",
+				"makeup: jenny beckman"
+			],
+			"image": "gallery/beauty/dubbel2.jpg"
+		},
+		{
+			"description": [
+				"hair: emma gayga",
+				"make up: jenny beckman"
+			],
+			"image": "gallery/beauty/harbollar.jpg"
+		},
+		{
+			"description": [
+				"hair: emma gayga",
+				"makeup: jenny beckman"
+			],
+			"image": "gallery/beauty/avantgardedubbel.jpg"
+		},
+		{
+			"cover": true,
+			"description": [
+				"hair: emma gayga",
+				"makeup: jenny beckman"
+			],
+			"image": "gallery/beauty/DSC_5301.5.jpg"
+		},
+		{
+			"description": [
+				"hair: emma gayga",
+				"makeup: jenny beckman"
+			],
+			"image": "gallery/beauty/DSC_5138.jpg"
+		},
+		{
+			"description": [
+				"hair: emma gayga",
+				"makeup: jenny beckman"
+			],
+			"image": "gallery/beauty/DSC_5383.jpg"
+		},
+		{
+			"description": [
+				"hair: emma gayga",
+				"makeup: jenny beckman"
+			],
+			"image": "gallery/beauty/DSC_5234dubbel2.jpg"
+		},
+		{
+			"description": [
+				"make up: jenny beckman",
+				"hair: emma tillberg",
+				"fashion: karina højgaard"
+			],
+			"image": "gallery/beauty/DSC_3307.jpg"
+		},
+		{
+			"description": [
+				"make up: jenny beckman",
+				"hair: emma tillberg",
+				"fashion: karina højgaard"
+			],
+			"image": "gallery/beauty/beauty10.jpg"
+		},
+		{
+			"description": [
+				"makeup: jenny beckman",
+				"hair: emma tillberg"
+			],
+			"image": "gallery/beauty/jenny.jpg"
+		},
+		{
+			"description": [
+				"makeup: jenny beckman",
+				"hair: emma tillberg"
+			],
+			"image": "gallery/beauty/DSC_2107.jpg"
+		},
+		{
+			"description": "make up: jenny beckman",
+			"image": "gallery/beauty/beauty2.jpg"
+		},
+		{
+			"description": "make up: jenny beckman",
+			"image": "gallery/beauty/DSC_4333-2.jpg"
+		},
+		{
+			"description": "make up: jenny beckman",
+			"image": "gallery/beauty/DSC_1209.2.jpg"
+		},
+		{
+			"description": "makeup & style: jenny beckman",
+			"image": "gallery/beauty/mathilda.jpg"
+		},
+		{
+			"description": "make up: jenny beckman",
+			"image": "gallery/beauty/beauty1.jpg"
+		},
+		{
+			"description": "Model lab, 2010",
+			"image": "gallery/beauty/beauty6.jpg"
+		},
+		{
+			"description": "model & make up: jenny beckman",
+			"image": "gallery/beauty/beauty8.jpg"
+		}
+	],
+	"press & promotion": [
+		{
+			"description": "Marcos Corleto Guevara, 2015",
+			"image": "gallery/press/DSC_5049.jpg"
+		},
+		{
+			"description": "Marcos Corleto Guevara, 2015",
+			"image": "gallery/press/DSC_5225_2.jpg"
+		},
+		{
+			"description": "Marcos Corleto Guevara, 2015",
+			"image": "gallery/press/DSC_4991.jpg"
+		},
+		{
+			"description": "Marcos Corleto Guevara, 2015",
+			"image": "gallery/press/DSC_4855.jpg"
+		},
+		{
+			"description": "wall of sound by brothers & studio total",
+			"image": "gallery/press/press1.jpg"
+		},
+		{
+			"description": "wall of sound by brothers & studio total",
+			"image": "gallery/press/wall_of_sound.jpg"
+		},
+		{
+			"description": "chainsaw by brothers & studio total",
+			"image": "gallery/press/52912_10150337948730384_2514986_o.jpg"
+		},
+		{
+			"description": "atlas losing grip, 2015",
+			"image": "gallery/press/alg2.jpg"
+		},
+		{
+			"description": "atlas losing grip, 2015",
+			"image": "gallery/press/alg.jpg"
+		},
+		{
+			"description": "twist action heroes, promotion 2011",
+			"image": "gallery/press/press3.jpg"
+		},
+		{
+			"cover": true,
+			"description": [
+				"regina lund poster",
+				"regnbågsveckan örnsköldsvik 2011"
+			],
+			"image": "gallery/press/reginalundposter.jpg"
+		},
+		{
+			"description": "Felicia Jackson, 2014",
+			"image": "gallery/press/DSC_0488.jpg"
+		},
+		{
+			"description": "Amir Akrouti, 2013",
+			"image": "gallery/press/DSC_6957.jpg"
+		},
+		{
+			"description": "Amir Akrouti, 2013",
+			"image": "gallery/press/DSC_6916.jpg"
+		},
+		{
+			"description": [
+				"\"lathundar\" for sveriges förenade studentkårer",
+				"http://wiki.sfs.se"
+			],
+			"image": "gallery/press/rattighetshunden.jpg"
+		},
+		{
+			"description": [
+				"\"lathundar\" for sveriges förenade studentkårer",
+				"http://wiki.sfs.se"
+			],
+			"image": "gallery/press/organisationshunden.jpg"
+		},
+		{
+			"description": [
+				"\"lathundar\" for sveriges förenade studentkårer",
+				"http://wiki.sfs.se"
+			],
+			"image": "gallery/press/paverkanshunden.jpg"
+		},
+		{
+			"description": "miljökören by studio total, 2009",
+			"image": "gallery/press/miljokoren.jpg"
+		},
+		{
+			"description": "regina lund for crime city clothing by bad reputation",
+			"image": "gallery/press/press4.jpg"
+		},
+		{
+			"description": "crime city clothing by bad reputation",
+			"image": "gallery/press/press5.jpg"
+		},
+		{
+			"description": "crime city clothing by bad reputation",
+			"image": "gallery/press/press6.jpg"
+		},
+		{
+			"description": [
+				"caroline l jensen for crime city clothing by bad reputation",
+				"promo for the release of http://vargslakte.se/ 2011"
+			],
+			"image": "gallery/press/DSC_1199.jpg"
+		},
+		{
+			"description": [
+				"ola svensson",
+				"metro hela helgen 15/10-2010"
+			],
+			"image": "gallery/press/press7.jpg"
+		},
+		{
+			"description": [
+				"linus thörnblad",
+				"metro hela helgen 8/10-2010"
+			],
+			"image": "gallery/press/press9.jpg"
+		},
+		{
+			"description": [
+				"daniel andersson",
+				"metro hela helgen 12/11-2010"
+			],
+			"image": "gallery/press/press10.jpg"
+		},
+		{
+			"description": [
+				"marie serneholt & sebastian karlsson",
+				"metro hela helgen 17/9-2010"
+			],
+			"image": "gallery/press/press8.jpg"
+		},
+		{
+			"description": "salong shape, 2014",
+			"image": "gallery/press/shape2014_2.jpg"
+		},
+		{
+			"description": "salong shape, 2014",
+			"image": "gallery/press/shape2014.jpg"
+		},
+		{
+			"description": "Dennis Lyxzén, 2014",
+			"image": "gallery/press/DSC_0284.jpg"
+		},
+		{
+			"description": [
+				"mf doom at way out west",
+				"nordic tattoo magazine #45 2011"
+			],
+			"image": "gallery/press/MFDOOM.jpg"
+		},
+		{
+			"description": [
+				"mf doom at way out west",
+				"nordic tattoo magazine #45 2011"
+			],
+			"image": "gallery/press/mfdoom3.jpg"
+		}
+	],
+	"people & portraits": [
+		{
+			"cover": true,
+			"description": "anna & gustav 2008",
+			"image": "gallery/people/annagustav.jpg"
+		},
+		{
+			"image": "gallery/people/beauty9.jpg"
+		},
+		{
+			"image": "gallery/people/DSC_8429.jpg"
+		},
+		{
+			"image": "gallery/people/DSC_8390.jpg"
+		},
+		{
+			"image": "gallery/people/madsen.jpg"
+		},
+		{
+			"image": "gallery/people/DSC_7540.jpg"
+		},
+		{
+			"description": "Sofia & Björn, 2013",
+			"image": "gallery/people/DSC_9112.jpg"
+		},
+		{
+			"description": "Sofia & Björn, 2013",
+			"image": "gallery/people/DSC_9117.jpg"
+		},
+		{
+			"description": "marie & thomas",
+			"image": "gallery/people/DSC_9315.jpg"
+		},
+		{
+			"description": "marie & thomas",
+			"image": "gallery/people/DSC_9177.jpg"
+		},
+		{
+			"description": "ellen & tommy 25/5 2009",
+			"image": "gallery/people/people5.jpg"
+		},
+		{
+			"description": "peter & runa 28/8-2010",
+			"image": "gallery/people/people3.jpg"
+		},
+		{
+			"description": "peter & runa 28/8-2010",
+			"image": "gallery/people/people7.jpg"
+		},
+		{
+			"description": "peter & runa 28/8-2010",
+			"image": "gallery/people/DSC_4955.jpg"
+		},
+		{
+			"description": "robert & anna 2008",
+			"image": "gallery/people/people4.jpg"
+		},
+		{
+			"image": "gallery/people/DSC_9320.jpg"
+		},
+		{
+			"description": "graduation 2010",
+			"image": "gallery/people/DSC_4464.jpg"
+		},
+		{
+			"description": "wilma & thomas",
+			"image": "gallery/people/wilma.jpg"
+		},
+		{
+			"description": "anette, charlie & mattias",
+			"image": "gallery/people/people2.jpg"
+		},
+		{
+			"description": [
+				"charlie",
+				"7 months old"
+			],
+			"image": "gallery/people/people1.jpg"
+		},
+		{
+			"description": [
+				"charlie",
+				"7 months old"
+			],
+			"image": "gallery/people/charlie.jpg"
+		},
+		{
+			"image": "gallery/people/people6.jpg"
+		},
+		{
+			"image": "gallery/people/people9.jpg"
+		},
+		{
+			"image": "gallery/people/people11.jpg"
+		}
+	],
+	"product": [
+		{
+			"description": "portfolio for graphic designer anja emzén",
+			"image": "gallery/product/anjaemzen.jpg"
+		},
+		{
+			"image": "gallery/product/shape1.jpg"
+		},
+		{
+			"image": "gallery/product/shape2.jpg"
+		},
+		{
+			"description": "optikerhuset",
+			"image": "gallery/product/DSC_6092.jpg"
+		},
+		{
+			"description": "norrgavel",
+			"image": "gallery/product/norrgavel1.jpg"
+		},
+		{
+			"cover": true,
+			"description": "norrgavel",
+			"image": "gallery/product/norrgavel3.jpg"
+		},
+		{
+			"description": "norrgavel",
+			"image": "gallery/product/norrgavel4.jpg"
+		},
+		{
+			"description": "wall of sound",
+			"image": "gallery/product/wallofsound_speaker.jpg"
+		},
+		{
+			"image": "gallery/product/pen_2014.jpg"
+		}
+	],
+	"tattoo": [
+		{
+			"cover": true,
+			"description": [
+				"johan svahn @ old bones tattoo",
+				"nordic tattoo magazine #44 2011"
+			],
+			"image": "gallery/tattoo/backpiece.jpg"
+		},
+		{
+			"description": [
+				"johan svahn @ old bones tattoo",
+				"nordic tattoo magazine #44 2011"
+			],
+			"image": "gallery/tattoo/chest2.jpg"
+		},
+		{
+			"description": [
+				"johan svahn @ old bones tattoo",
+				"nordic tattoo magazine #44 2011"
+			],
+			"image": "gallery/tattoo/sleeves.jpg"
+		},
+		{
+			"description": [
+				"female tattoo & art exhibition",
+				"bodyfication ink & lifestyle magazine 2010"
+			],
+			"image": "gallery/tattoo/press11.jpg"
+		},
+		{
+			"description": [
+				"way out west",
+				"nordic tattoo magazine #45 2011"
+			],
+			"image": "gallery/tattoo/DSC_4084.jpg"
+		},
+		{
+			"description": [
+				"johan finné @ evil twins heavenly tattoo",
+				"nordic tattoo magazine 2011"
+			],
+			"image": "gallery/tattoo/DSC_7807.jpg"
+		},
+		{
+			"description": [
+				"max bodlund @ evil twins heavenly tattoo",
+				"nordic tattoo magazine 2011"
+			],
+			"image": "gallery/tattoo/eviltwins1.jpg"
+		}
+	],
+	"pinups": [
+		{
+			"cover": true,
+			"title": "the pinup calendar",
+			"description": "graduationproject from my first year at fotoskolan skåne",
+			"image": "gallery/pinups/pinup1.jpg"
+		},
+		{
+			"title": "the pinup calendar",
+			"description": "graduationproject from my first year at fotoskolan skåne",
+			"image": "gallery/pinups/pinup2.jpg"
+		},
+		{
+			"title": "the pinup calendar",
+			"description": "graduationproject from my first year at fotoskolan skåne",
+			"image": "gallery/pinups/pinup3.jpg"
+		},
+		{
+			"title": "the pinup calendar",
+			"description": [
+				"miss november",
+				"graduationproject from my second year at fotoskolan skåne"
+			],
+			"image": "gallery/pinups/pinup4.jpg"
+		},
+		{
+			"title": "the pinup calendar",
+			"description": [
+				"miss march",
+				"graduationproject from my second year at fotoskolan skåne"
+			],
+			"image": "gallery/pinups/pinup5.jpg"
+		},
+		{
+			"title": "the pinup calendar",
+			"description": [
+				"miss april",
+				"graduationproject from my second year at fotoskolan skåne"
+			],
+			"image": "gallery/pinups/pinup6.jpg"
+		},
+		{
+			"title": "the pinup calendar",
+			"description": [
+				"miss may",
+				"graduationproject from my second year at fotoskolan skåne"
+			],
+			"image": "gallery/pinups/pinup7.jpg"
+		},
+		{
+			"title": "the pinup calendar",
+			"description": [
+				"miss july",
+				"graduationproject from my second year at fotoskolan skåne"
+			],
+			"image": "gallery/pinups/pinup8.jpg"
+		},
+		{
+			"title": "the pinup calendar",
+			"description": [
+				"miss september",
+				"graduationproject from my second year at fotoskolan skåne"
+			],
+			"image": "gallery/pinups/pinup9.jpg"
+		}
+	]
+}

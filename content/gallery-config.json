@@ -1,0 +1,10 @@
+{
+	"thumbnails": {
+		"height": 150
+	},
+	"cover": {
+		"height": 300
+	},
+	"base_dir": "./public",
+	"cache_dir": "cache"
+}
