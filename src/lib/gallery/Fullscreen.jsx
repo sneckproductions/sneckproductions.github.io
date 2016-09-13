@@ -15,25 +15,9 @@ export default class Fullscreen extends React.Component {
 		this.image.onload = () => {
 			this.setState({imageLoaded: true})
 		}
-		this.mouseOverTimer = null
-		this.onMouseEnter = this.onMouseEnter.bind(this);
-		this.onMouseLeave = this.onMouseLeave.bind(this);
-		this.onKeyUp = this.onKeyUp.bind(this);
-	}
-	onKeyUp(e) {
-		switch (e.which) {
-			case 27:
-				/*const gallery = this.props.model
-				const image = gallery.getImage(this.props.category, this.props.image)
-				browserHistory.push('#'+image.getCategoryUrl())*/
-				break
-		}
-	}
-	componentDidMount() {
-		window.addEventListener('keyup', this.onKeyUp, false);
+		this.onMouseMove = this.onMouseMove.bind(this)
 	}
 	componentWillUnMount(){
-		window.removeEventListener('keyup', this.onKeyUp);
 		if (this.mouseOverTimer) {
 			clearTimeout(this.mouseOverTimer)
 			this.mouseOverTimer = null
@@ -47,17 +31,18 @@ export default class Fullscreen extends React.Component {
 	}
 	loadImage(imageUrl) {
 		this.image.src = imageUrl
+		this.onMouseMove()
 	}
-	onMouseEnter(e) {
+	onMouseMove(e) {
+		if (!this.state.hover) {
+			this.setState({hover: true})
+		}
 		if (this.mouseOverTimer) {
 			clearTimeout(this.mouseOverTimer)
-			this.mouseOverTimer = null
 		}
-		this.setState({hover: true})
-	}
-	onMouseLeave(e) {
 		this.mouseOverTimer = setTimeout(() => {
 			this.setState({hover: false})
+			this.mouseOverTimer = null
 		}, 2000)
 	}
 	render() {
@@ -83,11 +68,7 @@ export default class Fullscreen extends React.Component {
 			className += ' gallery--hover'
 		}
 		return (
-			<div
-				className={className}
-				onMouseEnter={this.onMouseEnter}
-				onMouseLeave={this.onMouseLeave}
-			>
+			<div className={className} onMouseMove={this.onMouseMove}>
 				<div className="gallery__large-image" style={{ backgroundImage: 'url('+imageUrl+')' }} />
 				<div className="gallery__loader"></div>
 				{ image.getTitle() ?
